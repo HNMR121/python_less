@@ -23,3 +23,5 @@ try:
     print(season_dict[a])
 except:
     print("Вы ввели число больше 12 или слово")
+
+## Сделать с list черех фор
